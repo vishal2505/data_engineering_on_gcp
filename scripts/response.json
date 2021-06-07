@@ -1,0 +1,12 @@
+{ categories:
+  [
+    {
+      name: '/Food & Drink/Cooking & Recipes',
+      confidence: 0.85
+    },
+    {
+      name: '/Food & Drink/Food/Meat & Seafood',
+      confidence: 0.63
+    }
+  ]
+}
